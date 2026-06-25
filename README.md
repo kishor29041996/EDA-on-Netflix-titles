@@ -99,11 +99,10 @@ The project includes visualizations such as:
 
 ## Project Structure
 
-'''text
+```text
 Netflix-EDA/
-│
 ├── .gitignore
 ├── EDA_on_Netflix_titles.ipynb
 ├── README.md
 ├── requirements.txt
-'''
+```
