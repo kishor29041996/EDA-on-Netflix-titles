@@ -6,7 +6,7 @@ The objective is to transform raw data into meaningful business insights that ca
 Dataset Name: Netflix Movies and TV Shows
 Source: Kaggle
 
-The dataset contains information about Netflix titles, including:
+## The dataset contains information about Netflix titles, including
 -show_id
 -type
 -title
@@ -20,7 +20,7 @@ The dataset contains information about Netflix titles, including:
 -listed_in
 -description
 
-Objectives :
+## Objectives
 -Clean and preprocess the dataset
 -Handle missing values and duplicates
 -Explore the distribution of Movies and TV Shows
@@ -31,7 +31,7 @@ Objectives :
 -Explore the most common genres
 -Generate visualizations for business insights
 
-Technologies Used :
+## Technologies Used
 -Python
 -Pandas
 -NumPy
@@ -39,7 +39,7 @@ Technologies Used :
 -Seaborn
 -Jupyter Notebook
 
-Data Cleaning :
+## Data Cleaning
 The following preprocessing steps were performed:
 
 -Removed duplicate records
@@ -52,32 +52,32 @@ The following preprocessing steps were performed:
 -Cleaned duration values
 -Split multi-value columns where necessary
 
-Exploratory Data Analysis :
+## Exploratory Data Analysis
 The project answers several key questions:
 
-Content Distribution :
+## Content Distribution
 -Movies vs TV Shows
 -Percentage of each content type
-Release Trend :
+## Release Trend
 -Number of titles released each year
 -Growth of Netflix content over time
-Country Analysis :
+## Country Analysis
 -Countries contributing the most content
 -Top 10 content-producing countries
-Genre Analysis :
+## Genre Analysis
 -Most popular genres
 -Genre frequency distribution
-Ratings Analysis :
+## Ratings Analysis
 -Distribution of content ratings
 -Most common audience categories
-Duration Analysis :
+## Duration Analysis
 -Movie duration distribution
 -TV show season distribution
-Content Added Analysis :
+## Content Added Analysis
 -Number of titles added by year
 -Monthly content additions
 
-Key Insights :
+## Key Insights
 
 -Movies make up a larger share of the Netflix catalog than TV Shows.
 -Netflix experienced rapid content growth after 2015.
@@ -87,7 +87,7 @@ Key Insights :
 -The majority of TV Shows contain 1 season.
 -Content additions increased significantly during Netflix's global expansion years.
 
-Visualizations :
+## Visualizations
 The project includes visualizations such as:
 
 -Count plots
@@ -97,7 +97,7 @@ The project includes visualizations such as:
 -Box plots
 -Word Cloud
 
-Project Structure :
+## Project Structure
 
 '''text
 Netflix-EDA/
